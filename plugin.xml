@@ -30,7 +30,7 @@
             </feature>
         </config-file>
 		
-        <source-file src="app/src/android/com/tkyaji/cordova/DecryptResource.java" target-dir="src/com/tkyaji/cordova" />
+        <source-file src="src/android/com/tkyaji/cordova/DecryptResource.java" target-dir="app/src/com/tkyaji/cordova" />
     </platform>
 
     <cryptfiles>
